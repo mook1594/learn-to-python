@@ -62,3 +62,11 @@ $ echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
 $ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
 $ source ~/.bash_profile
 ```
+
+## pipenv
+```shell
+$ pip install pipenv
+$ pipenv --python 3.8.5
+$ pipenv shell
+$ pipenv install
+```
