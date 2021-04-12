@@ -7,3 +7,7 @@
 ### [jwt](./jwt/README.md)
 
 ### [virtual-env](./virtualenv/README.md)
+
+### [test](./test/README.md)
+
+### [django](./django/README.md)
