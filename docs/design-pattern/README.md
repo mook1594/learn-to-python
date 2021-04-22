@@ -8,4 +8,4 @@
 ### [7. ]()
 ### [8. Strings and Serialization](./chapter8/README.md)
 ### [9. The Iterator Pattern](./chapter9/README.md)
-
+### [10. Python Design Patterns](./chapter10/README.md)
