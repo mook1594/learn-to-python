@@ -3,3 +3,4 @@
 ### [Study](./docs/README.md)
 ### [Python Design-pattern](./docs/design-pattern/README.md)
 ### [Mobile Apps with Python and REST](./docs/mobile-apps-django-rest/README.md)
+### [Lightweight Django](./docs/lightweight-django/README.md)
