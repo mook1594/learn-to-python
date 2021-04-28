@@ -1,6 +1,6 @@
 #### [GO TO BACK](../README.md)
 
-# 10. Python Design Patterns
+# 10. Python Design Patterns I
 
 ### The Decorator pattern
 ![decorator](../../../static/images/ch10-decorator.png)
