@@ -1,3 +1,5 @@
+### [GO TO MENU](../../README.md)
+
 # Python: Master the Art of Design Pattern
 
 ### [2. Objects in Python](./chapter2/README.md)
@@ -8,4 +10,5 @@
 ### [7. ]()
 ### [8. Strings and Serialization](./chapter8/README.md)
 ### [9. The Iterator Pattern](./chapter9/README.md)
-### [10. Python Design Patterns](./chapter10/README.md)
+### [10. Python Design Patterns I](./chapter10/README.md)
+### [11. Python Design Patterns II](./chapter11/README.md)
