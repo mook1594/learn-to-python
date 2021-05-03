@@ -12,3 +12,4 @@
 ### [9. The Iterator Pattern](./chapter9/README.md)
 ### [10. Python Design Patterns I](./chapter10/README.md)
 ### [11. Python Design Patterns II](./chapter11/README.md)
+### [12. Testing Object-oriented Programs](./chapter12/README.md)
