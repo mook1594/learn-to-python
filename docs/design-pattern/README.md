@@ -13,3 +13,4 @@
 ### [10. Python Design Patterns I](./chapter10/README.md)
 ### [11. Python Design Patterns II](./chapter11/README.md)
 ### [12. Testing Object-oriented Programs](./chapter12/README.md)
+### [13. Concurrency](./chapter13/README.md)
