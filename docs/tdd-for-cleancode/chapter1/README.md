@@ -35,4 +35,7 @@ sudo pip3 install --upgrade selenium
 $ django-admin.py startproject superlists
 $ cd uperlists
 $ python3 manage.py runserver
+
+# 별도의 창에서
+$ python3 functional_test.py
 ```
