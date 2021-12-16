@@ -1,6 +1,6 @@
 #### [GO TO BACK](../README.md)
 
-# unittest 모듈을 이용한 기능 테스트 확장
+# 2. unittest 모듈을 이용한 기능 테스트 확장
 ## 기능 테스트를 이용한 최소 기능의 애플리케이션 설계
 - 기능 테스트(functional test) == 승인 테스트(acceptance test) == 종단간 테스트(end-to-end test)  
 : 외부 사용자 관점에 서의 테스트
