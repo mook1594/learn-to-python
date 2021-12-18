@@ -13,3 +13,4 @@
 - [12팩터(Twelve-Factor) 앱](http://12factor.net/ko/)
 
 ### [1. 코딩 스타일](./chapter1/README.md)
+### [2. 최적화된 장고 환경 꾸미기](./chapter2/README.md)
