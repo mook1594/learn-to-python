@@ -17,3 +17,4 @@
 ### [3. 어떻게 장고 프로젝트를 구성할 것인가?](./chapter3/README.md)
 ### [4. 장고 앱 디자인의 기본](./chapter4/README.md)
 ### [5. settings와 requirements 파일](./chapter5/README.md)
+### [6. 장고에서 모델 이용하기](./chapter6/README.md)
