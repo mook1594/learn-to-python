@@ -18,3 +18,4 @@
 ### [4. 장고 앱 디자인의 기본](./chapter4/README.md)
 ### [5. settings와 requirements 파일](./chapter5/README.md)
 ### [6. 장고에서 모델 이용하기](./chapter6/README.md)
+### [7. 쿼리와 데이터베이스 레이어](./chapter7/README.md)
