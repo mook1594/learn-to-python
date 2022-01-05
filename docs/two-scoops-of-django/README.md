@@ -20,3 +20,4 @@
 ### [6. 장고에서 모델 이용하기](./chapter6/README.md)
 ### [7. 쿼리와 데이터베이스 레이어](./chapter7/README.md)
 ### [8. 함수 기반 뷰와 클래스 기반 뷰](./chapter8/README.md)
+### [9. 함수 기반 뷰의 모범적인 이용](./chapter9/README.md)
