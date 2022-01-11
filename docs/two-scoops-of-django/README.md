@@ -24,3 +24,4 @@
 ### [10. 클래스 기반 뷰의 모범적인 이용](./chapter10/README.md)
 ### [11. 장고 폼의 기초](./chapter11/README.md)
 ### [12. 폼 패턴들](./chapter12/README.md)
+### [13. 템플릿의 모범적인 이용](./chapter13/README.md)
